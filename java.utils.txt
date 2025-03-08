@@ -1,3 +1,2 @@
 adduser Divya
 add user Lohithhh
-this is java file
